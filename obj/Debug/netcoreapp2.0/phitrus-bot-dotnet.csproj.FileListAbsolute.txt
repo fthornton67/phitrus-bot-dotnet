@@ -1,0 +1,10 @@
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/bin/Debug/netcoreapp2.0/phitrus-bot-dotnet.deps.json
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/bin/Debug/netcoreapp2.0/phitrus-bot-dotnet.runtimeconfig.json
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/bin/Debug/netcoreapp2.0/phitrus-bot-dotnet.runtimeconfig.dev.json
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/bin/Debug/netcoreapp2.0/phitrus-bot-dotnet.dll
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/bin/Debug/netcoreapp2.0/phitrus-bot-dotnet.pdb
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/obj/Debug/netcoreapp2.0/phitrus-bot-dotnet.csproj.CoreCompileInputs.cache
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/obj/Debug/netcoreapp2.0/phitrus-bot-dotnet.AssemblyInfoInputs.cache
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/obj/Debug/netcoreapp2.0/phitrus-bot-dotnet.AssemblyInfo.cs
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/obj/Debug/netcoreapp2.0/phitrus-bot-dotnet.dll
+/Users/fredrickthornton/_dev/cloud/azure/phitrus-bot-dotnet/obj/Debug/netcoreapp2.0/phitrus-bot-dotnet.pdb
